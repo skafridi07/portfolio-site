@@ -122,9 +122,9 @@ iconify-icon{
     flex-wrap: wrap;
     justify-content: center;
     
-    margin-inline: 5rem;
+    margin-inline: auto;
     margin-block-end: 2rem;
-    min-width: 500px;
+    max-width: 900px;
     border-radius: 1rem;
     overflow: hidden;
 }
